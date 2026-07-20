@@ -23,3 +23,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
