@@ -1,0 +1,57 @@
+---
+title: "News"
+---
+
+::: {.news-more .news-back}
+[Back](index.qmd){.more-button}
+:::
+
+### 2026
+
+- June 15, 2026: Our paper "[Rethinking the Green Power Grid for Stability, Not Just for Climate](https://www.cell.com/joule/fulltext/S2542-4351(26)00206-0)" was published in *Joule*.
+
+- June 5, 2026: Our patent "[Method and System for Evaluating Synchronization Stability of Power Electronic Equipment](https://pss-system.cponline.cnipa.gov.cn/conventionalSearch)" was granted in China.
+
+- February 2, 2026: Our patent "[Method and Apparatus for Monitoring Synchronous Safety and Stability of a Renewable Energy Grid-Connected System, and Computer-Readable Storage Medium](https://worldwide.espacenet.com/patent/search/family/078956840/publication/EP4203230A1?q=EP4203230)" was officially granted by the European Patent Office.
+
+- January 16, 2026: Our paper "[Insights from Renewable Energy Outage Accidents Abroad for Secure and Stable Operation of Power Grids in China](http://dx.doi.org/10.7500/AEPS20230808004)" received the Annual Excellent Paper Award.
+
+### 2025
+
+- December 12, 2025: Our work "[Distributed Lyapunov Functions for Nonlinear Network Systems](https://ieeecss.org/event/64th-ieee-conference-decision-and-control)" was presented at the IEEE Conference on Decision and Control in Rio de Janeiro, Brazil.
+
+- November 5, 2025: Our patent "[Method and System for Identifying Dominant Overvoltage of a High-Proportion New Energy Power System, Electronic Device, Storage Medium, and Computer Program Product](https://worldwide.espacenet.com/patent/search/family/085574702/publication/EP4350918A1?q=EP4350918)" was officially granted by the European Patent Office.
+
+- September 16, 2025: Our patent "[Linearized Modeling Method and Apparatus for Renewable Energy Grid-Connected Systems Based on T-S Fuzzy Theory](https://pss-system.cponline.cnipa.gov.cn/conventionalSearch)" was granted in China.
+
+- May 27, 2025: Our paper "[Distributed Lyapunov Functions for Nonlinear Networks](https://doi.org/10.1109/LCSYS.2025.3573881)" was published in *IEEE Control Systems Letters*.
+
+- May 13, 2025: Our work "[Designing Disordered Oscillator Ising Machines for Global Optimization](https://www.petaspin.com/isingmachines2025/)" was presented at the International Workshop on Ising Machines.
+
+### 2024
+
+- October 24, 2024: Our patent "[Method and System for Identifying Dominant Overvoltage of a High-Proportion New Energy Power System, Electronic Device, Storage Medium, and Computer Program Product](https://ipsearch.ipaustralia.gov.au/patents/)" was granted in Australia.
+
+- August 8, 2024: Our paper "[Transient Stability Analysis of the CIG-Embedded Power Systems Considering Multiple Stable Equilibrium Points](https://ieeexplore.ieee.org/document/10631302/)" was published online in *IEEE Transactions on Power Systems*.
+
+- July 2024: Our paper "[Insights from Renewable Energy Outage Accidents Abroad for Secure and Stable Operation of Power Grids in China](http://dx.doi.org/10.7500/AEPS20230808004)" was published in *Automation of Electric Power Systems*.
+
+- July 1, 2024: I officially joined the [Motter Group](https://cnd.northwestern.edu/) as a Postdoctoral Fellow.
+
+- July 1, 2024: Our patent "[Method and System for Identifying Dominant Overvoltage of a High-Proportion New Energy Power System, Electronic Device, Storage Medium, and Computer Program Product](https://ppubs.uspto.gov/pubwebapp/)" was granted in the United States.
+
+- June 6, 2024: Our paper "[Stability Boundary of Power System with Converter Interfaced Generation: Evolution and Transition Point](https://ieeexplore.ieee.org/document/10551510/)" was published online in *IEEE Transactions on Power Systems*.
+
+- May 27, 2024: I passed my Ph.D. defense.
+
+- May 16, 2024: Our patent "[Method and Apparatus for Monitoring Synchronous Safety and Stability of Grid-Connected Renewable Energy System, Medium, Device and Program](https://ipsearch.ipaustralia.gov.au/patents/)" was granted in Australia.
+
+- February 4, 2024: Received a tenured appointment as Dr. Ning's lifelong partner. Happy wedding!
+
+- January 2024: I received the Best Innovation Award from IEEE Power Electronics Society SSPEL in Asia.
+
+- January 2024: Our paper "[Overvoltage of the Power System Integrated with High Proportion of Power Electronics (I): Definition, Classification and Relevant Requirements](https://doi.org/10.13334/j.0258-8013.pcsee.222401)" was published in *Proceedings of the CSEE*.
+
+- February 2024: I received the Prize Paper Award from IEEE Power and Energy Society.
+
+*Earlier adventures are best shared over coffee.* ☕

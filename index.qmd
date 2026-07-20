@@ -1,0 +1,76 @@
+﻿---
+title: "Yiming Wang"
+about:
+  template: solana
+  image: profile.png
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:yiming.wang2@northwestern.edu
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=mhe1PYMAAAAJ&hl=zh-CN&oi=ao
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/yiming-wang-5ab6492b9?trk=people-guest_people_search-card
+---
+
+::: {.profile-header}
+![](profile.png){.profile-photo}
+
+::: {.profile-links}
+<a class="profile-link" href="mailto:yiming.wang2@northwestern.edu"><i class="bi bi-envelope-fill"></i><span>Email</span></a>
+<a class="profile-link" href="https://scholar.google.com/citations?user=mhe1PYMAAAAJ&hl=zh-CN&oi=ao"><i class="bi bi-google"></i><span>Google Scholar</span></a>
+<a class="profile-link" href="https://www.linkedin.com/in/yiming-wang-5ab6492b9?trk=people-guest_people_search-card"><i class="bi bi-linkedin"></i><span>LinkedIn</span></a>
+:::
+:::
+
+## About me
+
+I am currently a Postdoctoral Fellow in the Department of Physics & Astronomy and the Center for Network Dynamics at Northwestern University, where I work with Prof. Adilson E. Motter and Dr. Arthur N. Montanari. I received my Ph.D. degree in Electrical Engineering from Tsinghua University in 2024, under the supervision of Prof. Huadong Sun and Prof. Chen Shen. During my Ph.D., I also worked with Prof. Shiyun Xu and her team at the China Electric Power Research Institute (CEPRI).
+
+My research lies at the intersection of complex networks, control theory, and energy systems. I develop physics-inspired methods for analyzing power-system resilience, drawing on physics, geometry, and dynamical systems to uncover emerging instability mechanisms in renewable-rich power grids across Europe, China, and the United States. More recently, I have focused on the collective organization of resilience in complex networks, seeking general principles that extend beyond power grids. Specifically, I identify low-dimensional structures of resilience and translate these insights into actionable principles for energy planning and decision-making.
+
+My work has been published in journals such as *Joule* and *IEEE Transactions on Power Systems*. I have received the Prize Paper Award from the IEEE PES Technical Committee and the Best Innovation Award from IEEE PELS SSPEL in Asia, as well as paper and presentation awards from *Automation of Electric Power Systems*, *High Voltage Engineering*, the Tsinghua-IET Electrical Engineering Academic Forum, and the 6th International Conference on Energy, Electrical and Power Engineering. I welcome collaborations and discussions on complex systems, nonlinear dynamics, and their applications across engineering, neuroscience, and ecology.
+
+## Selected publications
+
+- [Y Wang]{.author-self}, AN Montanari, AE Motter. Rethinking the Green Power Grid for Stability, Not Just for Climate. *Joule*, 10: 102522 (2026). [doi](https://doi.org/10.1016/j.joule.2026.102522){.doi-button}
+
+- [Y Wang]{.author-self}, S Xu, H Sun, C Shen, T Lan. Transient Stability Analysis of the CIG-Embedded Power Systems Considering Multiple Stable Equilibrium Points. *IEEE Transactions on Power Systems*, 40(2): 1518-1531 (2025). [doi](https://doi.org/10.1109/TPWRS.2024.3440342){.doi-button}
+
+- [Y Wang]{.author-self}, H Sun, S Xu, B Zhao. Transient Stability Analysis and Improvement for the Grid-Connected VSC System with Multi-Limiters. *IEEE Transactions on Power Systems*, 39(1): 1979-1995 (2024). [doi](https://doi.org/10.1109/TPWRS.2023.3245806){.doi-button}
+
+- S Xu, [Y Wang]{.author-self}, H Sun, J Bi, T Lan. Insights from Renewable Energy Outage Accidents Abroad for Secure and Stable Operation of Power Grids in China. *Automation of Electric Power Systems*, 48(13): 1-8 (2024). [doi](http://dx.doi.org/10.7500/AEPS20230808004){.doi-button}
+
+- H Sun, S Xu, J He, [Y Wang]{.author-self}, W Li, B Zhao. Overvoltage of the Power System Integrated with High Proportion of Power Electronics (I): Definition, Classification and Relevant Requirements. *Proceedings of the CSEE*, 44(1): 22-33 (2024). [doi](https://doi.org/10.13334/j.0258-8013.pcsee.222401){.doi-button}
+
+## News
+
+### 2026
+
+- June 15, 2026: Our paper "[Rethinking the Green Power Grid for Stability, Not Just for Climate](https://www.cell.com/joule/fulltext/S2542-4351(26)00206-0)" was published in *Joule*.
+
+- June 5, 2026: Our patent "[Method and System for Evaluating Synchronization Stability of Power Electronic Equipment](https://pss-system.cponline.cnipa.gov.cn/conventionalSearch)" was granted in China.
+
+- February 2, 2026: Our patent "[Method and Apparatus for Monitoring Synchronous Safety and Stability of a Renewable Energy Grid-Connected System, and Computer-Readable Storage Medium](https://worldwide.espacenet.com/patent/search/family/078956840/publication/EP4203230A1?q=EP4203230)" was officially granted by the European Patent Office.
+
+- January 16, 2026: Our paper "[Insights from Renewable Energy Outage Accidents Abroad for Secure and Stable Operation of Power Grids in China](http://dx.doi.org/10.7500/AEPS20230808004)" received the Annual Excellent Paper Award.
+
+### 2025
+
+- December 12, 2025: Our work "[Distributed Lyapunov Functions for Nonlinear Network Systems](https://ieeecss.org/event/64th-ieee-conference-decision-and-control)" was presented at the IEEE Conference on Decision and Control in Rio de Janeiro, Brazil.
+
+- November 5, 2025: Our patent "[Method and System for Identifying Dominant Overvoltage of a High-Proportion New Energy Power System, Electronic Device, Storage Medium, and Computer Program Product](https://worldwide.espacenet.com/patent/search/family/085574702/publication/EP4350918A1?q=EP4350918)" was officially granted by the European Patent Office.
+
+- September 16, 2025: Our patent "[Linearized Modeling Method and Apparatus for Renewable Energy Grid-Connected Systems Based on T-S Fuzzy Theory](https://pss-system.cponline.cnipa.gov.cn/conventionalSearch)" was granted in China.
+
+- May 27, 2025: Our paper "[Distributed Lyapunov Functions for Nonlinear Networks](https://doi.org/10.1109/LCSYS.2025.3573881)" was published in *IEEE Control Systems Letters*.
+
+- May 13, 2025: Our work "[Designing Disordered Oscillator Ising Machines for Global Optimization](https://www.petaspin.com/isingmachines2025/)" was presented at the International Workshop on Ising Machines.
+
+::: {.news-more}
+[More](news.qmd){.more-button}
+:::
+
+

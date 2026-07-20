@@ -1,0 +1,25 @@
+project:
+  type: website
+  preview:
+    port: 1234
+
+website:
+  title: "Yiming Wang"
+  page-footer:
+    center: "© 2026 Yiming Wang. All rights reserved."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Contact
+        href: contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

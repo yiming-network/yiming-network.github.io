@@ -1,0 +1,31 @@
+---
+title: "Contact"
+---
+
+```{=html}
+<div class="contact-list">
+  <div class="contact-item">
+    <i class="bi bi-geo-alt-fill contact-icon" aria-hidden="true"></i>
+    <div>
+      <div class="contact-label">Address</div>
+      <div class="contact-value">Tech F325<br>2145 Sheridan Road<br>Evanston, IL 60208-3112</div>
+    </div>
+  </div>
+
+  <div class="contact-item">
+    <i class="bi bi-envelope-fill contact-icon" aria-hidden="true"></i>
+    <div>
+      <div class="contact-label">Email</div>
+      <div class="contact-value"><a href="mailto:yiming.wang2@northwestern.edu">yiming.wang2@northwestern.edu</a></div>
+    </div>
+  </div>
+
+  <div class="contact-item">
+    <i class="bi bi-telephone-fill contact-icon" aria-hidden="true"></i>
+    <div>
+      <div class="contact-label">Phone</div>
+      <div class="contact-value"><a href="tel:+18474672552">(847) 467-2552</a></div>
+    </div>
+  </div>
+</div>
+```

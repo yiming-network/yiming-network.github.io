@@ -1,0 +1,99 @@
+::: {.publications-page}
+
+*15 journals, 13 conferences and workshops, and 13 granted patents (8 Chinese, 2 European, 2 Australian, and 1 U.S.).*
+
+## Journals {.publication-section-title}
+
+::: {.publications-list .journal-list}
+
+1. [Y Wang]{.author-self}, AN Montanari, AE Motter. Rethinking the Green Power Grid for Stability, Not Just for Climate. *Joule*, 10: 102522 (2026). [doi](https://doi.org/10.1016/j.joule.2026.102522){.doi-button}
+
+2. [Y Wang]{.author-self}, AN Montanari, AE Motter. Distributed Lyapunov Functions for Nonlinear Networks. *IEEE Control Systems Letters*, 9: 486-491 (2025). [doi](https://doi.org/10.1109/LCSYS.2025.3573881){.doi-button}
+
+3. [Y Wang]{.author-self}, S Xu, H Sun, C Shen, et al. Transient Stability Analysis of the CIG-Embedded Power Systems Considering Multiple Stable Equilibrium Points. *IEEE Transactions on Power Systems*, 40(2): 1518-1531 (2025). [doi](https://doi.org/10.1109/TPWRS.2024.3440342){.doi-button}
+
+4. [Y Wang]{.author-self}, S Xu, H Sun, C Shen. Stability Boundary of Power System with Converter Interfaced Generation: Evolution and Transition Point. *IEEE Transactions on Power Systems*, 40(1): 893-906 (2025). [doi](https://doi.org/10.1109/TPWRS.2024.3410321){.doi-button}
+
+5. S Xu, [Y Wang]{.author-self}, H Sun, J Bi, et al. Insights from Renewable Energy Outage Accidents Abroad for Secure and Stable Operation of Power Grids in China. *Automation of Electric Power Systems*, 48(13): 1-8 (2024). [doi](http://dx.doi.org/10.7500/AEPS20230808004){.doi-button}
+
+6. H Sun, S Xu, J He, [Y Wang]{.author-self}, et al. Overvoltage of the Power System Integrated with High Proportion of Power Electronics (I): Definition, Classification and Relevant Requirements. *Proceedings of the CSEE*, 44(1): 22-33 (2024). [doi](https://doi.org/10.13334/j.0258-8013.pcsee.222401){.doi-button}
+
+7. [Y Wang]{.author-self}, H Sun, S Xu, B Zhao. Transient Stability Analysis and Improvement for the Grid-Connected VSC System with Multi-Limiters. *IEEE Transactions on Power Systems*, 39(1): 1979-1995 (2024). [doi](https://doi.org/10.1109/TPWRS.2023.3245806){.doi-button}
+
+8. H Sun, S Wang, S Xu, J Bi, et al. (incl. [Y. Wang]{.author-self}). Synchronization Stability Analysis of PLL-Based Grid-Connected VSC System by Voltage Space Vectors. *Proceedings of the CSEE*, 10(5): 2055-2064 (2023). [doi](https://doi.org/10.17775/CSEEJPES.2022.04450){.doi-button}
+
+9. [Y Wang]{.author-self}, H Sun, S Xu, C Shen, et al. Research on the Large Disturbance Stability of Grid-Connected VSC System Considering the Limiter Strategy of Outer Loop. *Proceedings of the CSEE*, 43(23): 9114-9127 (2023). [doi](https://doi.org/10.13334/j.0258-8013.pcsee.221236){.doi-button}
+
+10. H Sun, [Y Wang]{.author-self}, L Gao, Q Guo, et al. Research on Unification Stability Criterion for the Power Electronics Dominated Power System (II): Criterion of the Power-Electronic Interfaced Subsystem. *Proceedings of the CSEE*, 42(6): 2060-2069 (2022). [doi](https://doi.org/10.13334/j.0258-8013.pcsee.210488){.doi-button}
+
+11. H Sun, [Y Wang]{.author-self}, L Gao, Q Guo, et al. Research on Unification Stability Criterion for the Power Electronics Dominated Power System (I): Criterion of the Power-Electronic Interfaced Plant. *Proceedings of the CSEE*, 42(5): 1713-1723 (2022). [doi](https://doi.org/10.13334/j.0258-8013.pcsee.210487){.doi-button}
+
+12. B Qi, [Y Wang]{.author-self}, P Zhang, C Li, et al. A Novel Self-Decision Fault Diagnosis Model Based on State-Oriented Correction for Power Transformer. *IEEE Transactions on Dielectrics and Electrical Insulation*, 27(6): 1778-1786 (2020). [doi](https://doi.org/10.1109/TDEI.2019.008423){.doi-button}
+
+13. B Qi, [Y Wang]{.author-self}, P Zhang, Z Wen, et al. Power Transformer Oil Chromatography Diagnosis Model Based on Self-Decision Active Correction. *High Voltage Engineering*, 46(1): 23-32 (2020). DOI unavailable
+
+14. B Qi, [Y Wang]{.author-self}, P Zhang, C Li, et al. A Novel Deep Recurrent Belief Network Model for Trend Prediction of Transformer DGA Data. *IEEE Access*, 7: 80069-80078 (2019). [doi](https://doi.org/10.1109/ACCESS.2019.2923063){.doi-button}
+
+15. B Qi, [Y Wang]{.author-self}, P Zhang, C Li, et al. Deep Recurrent Belief Network for Transformer Oil Chromatography Trend Prediction. *Power System Technology*, 43(6): 1892-1899 (2019). [doi](https://doi.org/10.13335/j.1000-3673.pst.2019.0030){.doi-button}
+
+:::
+
+## Conferences and workshops {.publication-section-title}
+
+::: {.publications-list .conference-list}
+
+1. [Y Wang]{.author-self}, S Xu, J Bi, S Wang. Interaction Analysis of the Grid-Connected VSC System Based on Transient Energy Inflow. *2023 4th International Conference on Advanced Electrical and Energy Systems (AEES)*, 82-86 (2023). [doi](https://doi.org/10.1109/AEES59800.2023.10469095){.doi-button}
+
+2. [Y Wang]{.author-self}, S Xu, J Bi, S Wang, et al. Transient Stability Analysis and Stable Forms of the Grid-Connected VSC System with Limiter. *2023 6th International Conference on Energy, Electrical and Power Engineering (CEEPE)*, 776-780 (2023). [doi](https://doi.org/10.1109/CEEPE58418.2023.10166797){.doi-button}
+
+3. S Wang, S Zhang, D Guo, J Bi, et al. (incl. [Y. Wang]{.author-self}). Study of LVRT Parameter of Renewables Considering Overvoltage Constraint in HVDC Sending-End System. *2023 Panda Forum on Power and Energy (PandaFPE)*, 1-5 (2023). [doi](https://doi.org/10.1109/PandaFPE57779.2023.10141189){.doi-button}
+
+4. X Zhang, H Sun, X Wang, Y Zhou, et al. (incl. [Y. Wang]{.author-self}). EMT Modelling and Overvoltage Analysis of Renewable Energy Generation Grid-Connected System. *2021 IEEE 5th Conference on Energy Internet and Energy System Integration (EI2)*, 437-441 (2021). [doi](https://doi.org/10.1109/EI252483.2021.9712931){.doi-button}
+
+5. [Y Wang]{.author-self}, H Sun, S Xu, J Bi, et al. Key Influence Factor Analysis Related to the Transient Process of Grid-Connected VSC System. *2021 IEEE 5th Conference on Energy Internet and Energy System Integration (EI2)*, 421-425 (2021). [doi](https://doi.org/10.1109/EI252483.2021.9713543){.doi-button}
+
+6. J Bi, S Xu, H Sun, [Y Wang]{.author-self}, et al. Dynamic Stability Analysis of Sub-Synchronous Oscillation Mode of Phase Locked Loop. *2021 IEEE 5th Conference on Energy Internet and Energy System Integration (EI2)*, 2883-2889 (2021). [doi](https://doi.org/10.1109/EI252483.2021.9712953){.doi-button}
+
+7. J Bi, S Xu, H Sun, [Y Wang]{.author-self}, et al. Supplementary Damping Controller Design of DFIG with Mode-Based Damping Torque Analysis Method. *2021 IEEE 16th Conference on Industrial Electronics and Applications (ICIEA)* (2021). [doi](https://doi.org/10.1109/ICIEA51954.2021.9516241){.doi-button}
+
+8. Z Feng, Y Jiang, D Nie, [Y Wang]{.author-self}, et al. State Prediction Method of Power Transformer Based on Grey Differential Threshold. *2018 IEEE Conference on Electrical Insulation and Dielectric Phenomena (CEIDP)*, 410-413 (2018). [doi](https://doi.org/10.1109/CEIDP.2018.8544756){.doi-button}
+
+9. X Xu, L Cheng, D Nie, [Y Wang]{.author-self}, et al. Combination Prediction Method of Power Transformers Based on Feature Gas Arrangement Diagram and Grey Model. *2018 IEEE Conference on Electrical Insulation and Dielectric Phenomena (CEIDP)*, 406-409 (2018). [doi](https://doi.org/10.1109/CEIDP.2018.8544853){.doi-button}
+
+10. H Su, Q Wang, Y Chen, [Y Wang]{.author-self}, et al. Hierarchical Layered Method of Converter Station Based on Principal Component Analysis and Association Analysis. *2018 Condition Monitoring and Diagnosis (CMD)*, 1-7 (2018). [doi](https://doi.org/10.1109/CMD.2018.8535662){.doi-button}
+
+11. [Y Wang]{.author-self}, P Zhang, B Qi, C Li, et al. State Prediction of Power Transformer Based on Grey-Lagrange Method with Weighted Coefficient of Variation. *2018 Condition Monitoring and Diagnosis (CMD)*, 1-6 (2018). [doi](https://doi.org/10.1109/CMD.2018.8535673){.doi-button}
+
+12. P Zhang, B Qi, Z Rong, [Y Wang]{.author-self}, et al. Anomalous State Detection of Dissolved Gases in Transformer Oil Based on the Canopy Hyper Sphere Model. *2018 IEEE Electrical Insulation Conference (EIC)*, 228-231 (2018). [doi](https://doi.org/10.1109/EIC.2018.8481068){.doi-button}
+
+13. P Zhang, W Rao, B Qi, [Y Wang]{.author-self}, et al. Abnormal Identification of Dissolved Gas in Oil Monitoring Device Based on Multivariate Statistical Process Monitoring. *2018 12th International Conference on the Properties and Applications of Dielectric Materials (ICPADM)*, 726-729 (2018). [doi](https://doi.org/10.1109/ICPADM.2018.8401126){.doi-button}
+
+:::
+
+## Patents {.publication-section-title}
+
+::: {.publications-list .patent-list}
+
+1. Method and Apparatus for Monitoring Synchronous Safety and Stability of a Renewable Energy Grid-Connected System, and Computer-Readable Storage Medium. *Granted by the European Patent Office, 2026.*
+
+2. Method and System for Evaluating Synchronization Stability of Power Electronic Equipment. *Granted in China, 2026.*
+
+3. Method and System for Identifying Dominant Overvoltage of a High-Proportion New Energy Power System, Electronic Device, Storage Medium, and Computer Program Product. *Granted by the European Patent Office, Australia, the United States, and China, 2023-2025.*
+
+4. Linearized Modeling Method and Apparatus for Renewable Energy Grid-Connected Systems Based on T-S Fuzzy Theory. *Granted in China, 2025.*
+
+5. Method and Apparatus for Monitoring Synchronous Safety and Stability of Grid-Connected Renewable Energy System, Medium, Device and Program. *Granted in Australia, 2024.*
+
+6. Method for Calculating Overvoltage Risk in Renewable Energy Power Systems Considering Phase-Locked Loop Dynamics. *Granted in China, 2023.*
+
+7. Method and Apparatus for Planning the Grid-Connection Electrical Distance of Power-Electronic Power Sources. *Granted in China, 2022.*
+
+8. Method and Apparatus for Planning the Grid-Connection Capacity of Power-Electronic Power Sources. *Granted in China, 2022.*
+
+9. Method and Apparatus for Stability Assessment of High-Proportion Power-Electronic Power Systems. *Granted in China, 2022.*
+
+10. Method and Apparatus for Generating Station-Level Stability Criteria for Power-Electronic Power Sources. *Granted in China, 2021.*
+
+:::
+
+:::
