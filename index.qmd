@@ -29,21 +29,21 @@ about:
 
 I am currently a Postdoctoral Fellow in the Department of Physics & Astronomy and the Center for Network Dynamics at Northwestern University, where I work with Prof. Adilson E. Motter and Dr. Arthur N. Montanari. I received my Ph.D. degree in Electrical Engineering from Tsinghua University in 2024, under the supervision of Prof. Huadong Sun and Prof. Chen Shen. During my Ph.D., I also worked with Prof. Shiyun Xu and her team at the China Electric Power Research Institute (CEPRI).
 
-My research lies at the intersection of complex networks, control theory, and energy systems. I develop physics-inspired methods for analyzing power-system resilience, drawing on physics, geometry, and dynamical systems to uncover emerging instability mechanisms in renewable-rich power grids across Europe, China, and the United States. More recently, I have focused on the collective organization of resilience in complex networks, seeking general principles that extend beyond power grids. Specifically, I identify low-dimensional structures of resilience and translate these insights into actionable principles for energy planning and decision-making.
+My research lies at the intersection of complex networks, control theory, and energy systems. I develop physics-inspired methods for analyzing power system resilience, drawing on physics, geometry, and dynamical systems to uncover emerging instability mechanisms in renewable-rich power grids across Europe, China, and the United States. More recently, I have focused on the collective organization of resilience in complex networks, seeking general principles that extend beyond power grids. Specifically, I identify low-dimensional structures of resilience and translate these insights into actionable principles for energy planning and decision-making.
 
 My work has been published in journals such as *Joule* and *IEEE Transactions on Power Systems*. I have received the Prize Paper Award from the IEEE PES Technical Committee and the Best Innovation Award from IEEE PELS SSPEL in Asia, as well as paper and presentation awards from *Automation of Electric Power Systems*, *High Voltage Engineering*, the Tsinghua-IET Electrical Engineering Academic Forum, and the 6th International Conference on Energy, Electrical and Power Engineering. I welcome collaborations and discussions on complex systems, nonlinear dynamics, and their applications across engineering, neuroscience, and ecology.
 
 ## Selected publications
 
-- [Y Wang]{.author-self}, AN Montanari, AE Motter. Rethinking the Green Power Grid for Stability, Not Just for Climate. *Joule*, 10: 102522 (2026). [doi](https://doi.org/10.1016/j.joule.2026.102522){.doi-button}
+- [Y. Wang]{.author-self}, A. N. Montanari, A. E. Motter. Rethinking the Green Power Grid for Stability, Not Just for Climate. *Joule*, 10: 102522 (2026). [doi](https://doi.org/10.1016/j.joule.2026.102522){.doi-button}
 
-- [Y Wang]{.author-self}, S Xu, H Sun, C Shen, T Lan. Transient Stability Analysis of the CIG-Embedded Power Systems Considering Multiple Stable Equilibrium Points. *IEEE Transactions on Power Systems*, 40(2): 1518-1531 (2025). [doi](https://doi.org/10.1109/TPWRS.2024.3440342){.doi-button}
+- [Y. Wang]{.author-self}, S. Xu, H. Sun, C. Shen, T. Lan. Transient Stability Analysis of the CIG-Embedded Power Systems Considering Multiple Stable Equilibrium Points. *IEEE Transactions on Power Systems*, 40(2): 1518-1531 (2025). [doi](https://doi.org/10.1109/TPWRS.2024.3440342){.doi-button}
 
-- [Y Wang]{.author-self}, H Sun, S Xu, B Zhao. Transient Stability Analysis and Improvement for the Grid-Connected VSC System with Multi-Limiters. *IEEE Transactions on Power Systems*, 39(1): 1979-1995 (2024). [doi](https://doi.org/10.1109/TPWRS.2023.3245806){.doi-button}
+- [Y. Wang]{.author-self}, H. Sun, S. Xu, B. Zhao. Transient Stability Analysis and Improvement for the Grid-Connected VSC System with Multi-Limiters. *IEEE Transactions on Power Systems*, 39(1): 1979-1995 (2024). [doi](https://doi.org/10.1109/TPWRS.2023.3245806){.doi-button}
 
-- S Xu, [Y Wang]{.author-self}, H Sun, J Bi, T Lan. Insights from Renewable Energy Outage Accidents Abroad for Secure and Stable Operation of Power Grids in China. *Automation of Electric Power Systems*, 48(13): 1-8 (2024). [doi](http://dx.doi.org/10.7500/AEPS20230808004){.doi-button}
+- S. Xu, [Y. Wang]{.author-self}, H. Sun, J. Bi, T. Lan. Insights from Renewable Energy Outage Accidents Abroad for Secure and Stable Operation of Power Grids in China. *Automation of Electric Power Systems*, 48(13): 1-8 (2024). [doi](http://dx.doi.org/10.7500/AEPS20230808004){.doi-button}
 
-- H Sun, S Xu, J He, [Y Wang]{.author-self}, W Li, B Zhao. Overvoltage of the Power System Integrated with High Proportion of Power Electronics (I): Definition, Classification and Relevant Requirements. *Proceedings of the CSEE*, 44(1): 22-33 (2024). [doi](https://doi.org/10.13334/j.0258-8013.pcsee.222401){.doi-button}
+- H. Sun, S. Xu, J. He, [Y. Wang]{.author-self}, W. Li, B. Zhao. Overvoltage of the Power System Integrated with High Proportion of Power Electronics (I): Definition, Classification and Relevant Requirements. *Proceedings of the CSEE*, 44(1): 22-33 (2024). [doi](https://doi.org/10.13334/j.0258-8013.pcsee.222401){.doi-button}
 
 ## News
 
