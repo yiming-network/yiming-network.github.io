@@ -5,6 +5,7 @@ project:
 
 website:
   title: "Yiming Wang"
+  google-analytics: "G-R5DERV7YCC"
   page-footer:
     center: "© 2026 Yiming Wang. All rights reserved."
   navbar:
