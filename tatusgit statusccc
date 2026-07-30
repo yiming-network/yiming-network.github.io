@@ -1,0 +1,67 @@
+warning: in the working copy of '_quarto.yml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'index.qmd', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'research.qmd', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/Fig_transient3.png b/Fig_transient3.png[m
+[1mdeleted file mode 100644[m
+[1mindex db848d1..0000000[m
+Binary files a/Fig_transient3.png and /dev/null differ
+[1mdiff --git a/_quarto.yml b/_quarto.yml[m
+[1mindex c3941fd..42af3cd 100644[m
+[1m--- a/_quarto.yml[m
+[1m+++ b/_quarto.yml[m
+[36m@@ -24,6 +24,3 @@[m [mformat:[m
+     theme: cosmo[m
+     css: styles.css[m
+     toc: false[m
+[31m-    include-in-header:[m
+[31m-      text: |[m
+[31m-        <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex">[m
+[1mdiff --git a/index.qmd b/index.qmd[m
+[1mindex 3b56517..dc8f428 100644[m
+[1m--- a/index.qmd[m
+[1m+++ b/index.qmd[m
+[36m@@ -29,7 +29,7 @@[m [mabout:[m
+ [m
+ I am currently a Postdoctoral Fellow in the Department of Physics & Astronomy and the Center for Network Dynamics at Northwestern University, where I work with Prof. Adilson E. Motter and Dr. Arthur N. Montanari. I received my Ph.D. degree in Electrical Engineering from Tsinghua University in 2024, under the supervision of Prof. Huadong Sun and Prof. Chen Shen. During my Ph.D., I also worked with Prof. Shiyun Xu and her team at the China Electric Power Research Institute (CEPRI).[m
+ [m
+[31m-My research lies at the intersection of complex networks, control theory, and energy systems. I develop physics-inspired methods for analyzing power system resilience, drawing on physics, geometry, and dynamical systems to uncover emerging instability mechanisms in renewable-rich power grids across Europe, China, and the United States. More recently, I have focused on the collective organization of resilience in complex networks, seeking general principles that extend beyond power grids. Specifically, I identify low-dimensional structures of resilience and translate these insights into actionable principles for energy planning and decision-making.[m
+[32m+[m[32mMy research lies at the intersection of complex networks and energy systems. I develop physics-inspired methods for analyzing power system resilience, drawing on physics, geometry, and dynamical systems to uncover emerging instability in renewable-rich power grids across Europe, China, and the United States. More recently, I have focused on the collective organization of resilience in complex networks, seeking general principles that extend beyond power grids. Specifically, I identify low-dimensional structures of resilience and translate these insights into actionable principles for energy planning and decision-making.[m
+ [m
+ My work has been published in journals such as *Joule* and *IEEE Transactions on Power Systems*. I have received the Prize Paper Award from the IEEE PES Technical Committee and the Best Innovation Award from IEEE PELS SSPEL in Asia, as well as paper and presentation awards from *Automation of Electric Power Systems*, *High Voltage Engineering*, the Tsinghua-IET Electrical Engineering Academic Forum, and the 6th International Conference on Energy, Electrical and Power Engineering. I welcome collaborations and discussions on complex systems, nonlinear dynamics, and their applications across engineering, neuroscience, and ecology.[m
+ [m
+[1mdiff --git a/research.qmd b/research.qmd[m
+[1mindex eb364d2..c28d5c4 100644[m
+[1m--- a/research.qmd[m
+[1m+++ b/research.qmd[m
+[36m@@ -5,7 +5,7 @@[m [mtitle: "Research"[m
+ ```{=html}[m
+ <div class="research-sections">[m
+ <section class="research-part">[m
+[31m-<button class="research-part-title" type="button" aria-expanded="false">Emerging Instability Mechanisms in Renewable-Rich Power Systems</button>[m
+[32m+[m[32m<button class="research-part-title" type="button" aria-expanded="false">Emerging Instability in Renewable-Rich Power Systems</button>[m
+ <div class="research-part-content" hidden>[m
+ <div class="research-feature">[m
+ <div class="research-feature-text">[m
+[36m@@ -28,7 +28,7 @@[m [mtitle: "Research"[m
+ <img src="Fig_iberian2.png" alt="Emerging instability phenomena in renewable-rich power systems">[m
+ </figure>[m
+ <figure class="research-figure">[m
+[31m-<img src="Fig_transient3.png" alt="Emerging instability phenomena in renewable-rich power systems figure 2">[m
+[32m+[m[32m<img src="NonNormalPropagation_010.gif" alt="Nonnormal disturbance propagation in renewable-rich power systems">[m
+ </figure>[m
+ <figure class="research-figure">[m
+ <img src="Fig_transient1.gif" alt="Animation of emerging instability phenomena in renewable-rich power systems">[m
+[1mdiff --git a/research_files/.gitkeep b/research_files/.gitkeep[m
+[1mdeleted file mode 100644[m
+[1mindex 8b13789..0000000[m
+[1m--- a/research_files/.gitkeep[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-[m
+[1mdiff --git a/research_files/mediabag/.gitkeep b/research_files/mediabag/.gitkeep[m
+[1mdeleted file mode 100644[m
+[1mindex 8b13789..0000000[m
+[1m--- a/research_files/mediabag/.gitkeep[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-[m

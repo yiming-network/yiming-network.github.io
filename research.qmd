@@ -5,7 +5,7 @@ title: "Research"
 ```{=html}
 <div class="research-sections">
 <section class="research-part">
-<button class="research-part-title" type="button" aria-expanded="false">Emerging Instability Mechanisms in Renewable-Rich Power Systems</button>
+<button class="research-part-title" type="button" aria-expanded="false">Emerging Instability in Renewable-Rich Power Systems</button>
 <div class="research-part-content" hidden>
 <div class="research-feature">
 <div class="research-feature-text">
@@ -28,7 +28,7 @@ title: "Research"
 <img src="Fig_iberian2.png" alt="Emerging instability phenomena in renewable-rich power systems">
 </figure>
 <figure class="research-figure">
-<img src="Fig_transient3.png" alt="Emerging instability phenomena in renewable-rich power systems figure 2">
+<img src="NonNormalPropagation_010.gif" alt="Nonnormal disturbance propagation in renewable-rich power systems">
 </figure>
 <figure class="research-figure">
 <img src="Fig_transient1.gif" alt="Animation of emerging instability phenomena in renewable-rich power systems">
